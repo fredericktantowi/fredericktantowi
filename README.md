@@ -26,7 +26,8 @@ Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snow
 
 <br/>
 
-Additional Skills
+# Additional Skills
+
 <table><tr><td valign="top" width="33%">
 ### Data Visualization  
 <div align="center">  
