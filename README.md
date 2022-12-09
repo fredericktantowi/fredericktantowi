@@ -19,7 +19,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 Data Science: Linear and Logistic Regression, A/B Testing, NLP, Hypothesis Testing, Statistical Analysis, Probability & Statistics, Data Cleaning, Wrangling & Manipulation.
 Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snowflake), AWS (S3 and Redshift), PySpark
   
@@ -27,6 +26,7 @@ Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snow
 <br/>
 
 
+<table><tr><td valign="top" width="33%">
 ### Data Visualization  
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
