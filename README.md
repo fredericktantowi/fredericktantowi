@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![image](https://user-images.githubusercontent.com/15056548/206600353-a9c2a4c2-6a47-4968-9eb8-6a6e84434938.png)" align="center" style="width: 100%" />
+<img src="![image](https://user-images.githubusercontent.com/15056548/206600353-a9c2a4c2-6a47-4968-9eb8-6a6e84434938.png" align="center" style="width: 100%" />
 </div>  
 
 
@@ -29,8 +29,8 @@ Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snow
 
 ### Additional Skills
 
-<table><tr><td valign="top" width="33%">
 
+<table><tr><td valign="top" align="center" width="33%">
 ### Data Visualization  
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
