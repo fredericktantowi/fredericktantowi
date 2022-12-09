@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="![image](https://user-images.githubusercontent.com/15056548/206600353-a9c2a4c2-6a47-4968-9eb8-6a6e84434938.png)" align="center" style="width: 100%" />
 </div>  
+
 
 
 ### <div align="center">Hello!👋 I am Frederick, a data science enthusiast driven by curiosity</div>  
