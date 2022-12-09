@@ -22,6 +22,8 @@
 <table><tr><td valign="top" width="33%">
 Data Science: Linear and Logistic Regression, A/B Testing, NLP, Hypothesis Testing, Statistical Analysis, Probability & Statistics, Data Cleaning, Wrangling & Manipulation.
 Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snowflake), AWS (S3 and Redshift), PySpark
+  
+
 </br>
 
 
