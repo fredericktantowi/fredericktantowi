@@ -31,6 +31,7 @@ Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snow
 
 
 <table><tr><td valign="top" align="center" width="33%">
+
 ### Data Visualization  
 <div align="center">  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
