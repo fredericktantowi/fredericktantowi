@@ -1,6 +1,6 @@
 <div align="center">
-![](https://github.com/fredericktantowi/fredericktantowi/blob/main/greetings.gif)]
-</div>  dsds
+<img src="[![image]((https://github.com/fredericktantowi/fredericktantowi/blob/main/greetings.gif?raw=true))]" align="center" style="width: 100%" />
+</div> 
 
 
 
