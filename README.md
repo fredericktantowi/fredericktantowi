@@ -1,5 +1,5 @@
 <div align="center">
-<![image]((helloWorldgreetings.gif))]" align="center" style="width: 100%" />
+<![image]((HelloWorldBanner.gif))]" align="center" style="width: 100%" />
 </div> 
 
 
