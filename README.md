@@ -14,9 +14,9 @@
 - 🤹‍♂️ Outside of work, I enjoy playing golf, reading books, learning about new fields (currently Finance and Entrepreneurship), and composing music for fun!  
   
 - ⚡ Two truths, One lie: 
-      - I increased productivity for research analysts in my department by creating an NLP summarization algorithm
-      - Established 3 client relationships in my first two quarters of employment as a digital analyst
-      - I am 6'3  
+-     I increased productivity for research analysts in my department by creating an NLP summarization algorithm
+-     Established 3 client relationships in my first two quarters of employment as a digital analyst
+-     I am 6'3  
   
 
 <br/>  
