@@ -1,11 +1,11 @@
 <div align="center">
-<![image]((https://user-images.githubusercontent.com/15056548/209024184-4b9de017-5baf-4153-9c53-121ead471fbf.gif))]" align="center" style="width: 100%" />
+<v]" align="center" style="width: 100%" />
 </div> 
 
 
 
 ### <div align="center">Hello!👋 I am Frederick, a data science enthusiast driven by curiosity</div>  
-  
+![image]((https://user-images.githubusercontent.com/15056548/209024184-4b9de017-5baf-4153-9c53-121ead471fbf.gif))
 
 - 👔 A professional in the data science field, blending my academic training with work experience.   
  
