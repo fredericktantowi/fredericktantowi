@@ -1,5 +1,5 @@
 <div align="center">
-![helloworldGif](https://github.com/fredericktantowi/fredericktantowi/blob/main/greetings.gif)]
+![](https://github.com/fredericktantowi/fredericktantowi/blob/main/greetings.gif)]
 </div>  dsds
 
 
