@@ -4,7 +4,8 @@
 
 
 
-### <div align="center">Hello!👋 I am Frederick, a Data Scientist driven by passion and dedicated to deliver effective data-driven decision-making</div>  
+### <div align="center">Hello!👋 I am Frederick</div>
+### <div align="center">a Data Scientist driven by passion and dedicated to deliver effective data-driven decision-making</div>  
 ![image](https://user-images.githubusercontent.com/15056548/209024184-4b9de017-5baf-4153-9c53-121ead471fbf.gif)
 
 - 👔 A professional in the data science field, blending my academic training with work experience.   
