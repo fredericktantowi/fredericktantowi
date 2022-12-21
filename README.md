@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[![image]((https://github.com/fredericktantowi/fredericktantowi/blob/main/greetings.gif?raw=true))]" align="center" style="width: 100%" />
+<img src="[![image]((helloWorldgreetings.gif))]" align="center" style="width: 100%" />
 </div> 
 
 
