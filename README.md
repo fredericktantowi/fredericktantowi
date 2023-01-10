@@ -26,51 +26,30 @@
 <br/>  
 
 
-## My Skill Set  
+## Relevant Skills  
 Data Science: Linear and Logistic Regression, A/B Testing, NLP, Hypothesis Testing, Statistical Analysis, Probability & Statistics, Data Cleaning, Wrangling & Manipulation.
 
 Data Engineering: ETL pipeline, Airflow (python), SQL for Data Engineering (Snowflake), AWS (S3 and Redshift), PySpark
-  
-
-<br/>
-
-### Additional Skills
-
-<div align="center">
-<table><tr><td valign="top" align="center" width="33%">
-
-### Data Visualization  
-<div align="center">  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Programming Languages  
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Databases  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
+ 
+Programming Languages: Python, SQL (MySQL / Microsoft SQL Server / PostgreSQL), R, C++, Java
+                 
+Database: MySQL, PostgreSQL, Microsoft SQL Server
+                 
+Machine Learning: Statistical Modeling, Natural Language Processing (NLP), Deep Learning, Artificial Intelligence (AI), Sentiment Analysis, Time Series Analysis
+                 
+Python Libraries: Pandas, NumPy, SciPy, scikit-learn, Keras, PyTorch, Tensorflow, XGBoost, NLTK, Matplotlib, Seaborn, BeautifulSoup
+                 
+Supervised Learning: Linear Regression, Logistic Regression, Lasso Regression, Decision Trees (CART), Random Forests, XGBoost, Support Vector Machines (SVM), K-Nearest Neighbors (kNN), Naïve Bayes
+                 
+Unsupervised Learning: Clustering, Association Rules, Dimension Reduction
+                 
+Statistics: Bayesian Statistics, Statistical Modeling, Statistical Hypothesis Testing, Factor Analysis, ANOVA, Research Design
+                 
+Cloud Computing: Amazon Web Services (AWS)
+                 
+Visualization & Reporting: Tableau, PowerBI, Microsoft Excel
+                 
+Version Control: Git, GitHub
 <br/>  
 
 
