@@ -27,6 +27,8 @@
 
 ## Relevant Projects
 [New York Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
+[NLP - Automatic Topic Modeling and Summarizer Tool](https://github.com/fredericktantowi/NLP-Topic-Modeling-and-Summarizer-Tool)
+[Cluster Analysis of NYC Housing Projects vs Crime Rate](https://github.com/fredericktantowi/Housing-Projects-VS-Crime-Rate-in-NYC)
 <br/>
 
 ## Relevant Skills  
