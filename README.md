@@ -25,7 +25,11 @@
 
 <br/>  
 
+</div>
+## Relevant Projects
 
+                 - [New York Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
+<br/>
 
 ## Relevant Skills  
 Data Science: Linear and Logistic Regression, A/B Testing, NLP, Hypothesis Testing, Statistical Analysis, Probability & Statistics, Data Cleaning, Wrangling & Manipulation.
