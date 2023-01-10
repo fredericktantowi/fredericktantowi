@@ -25,10 +25,8 @@
 
 <br/>  
 
-</div>
 ## Relevant Projects
-
-                 - [New York Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
+[New York Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
 <br/>
 
 ## Relevant Skills  
