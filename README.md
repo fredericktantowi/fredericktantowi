@@ -16,14 +16,15 @@
   
 - ⚡ Two truths, One lie: 
 <div align="left">
--    I increased productivity for research analysts in my department by creating an NLP summarization algorithm
+⋅⋅*    I increased productivity for research analysts in my department by creating an NLP summarization algorithm
 <div align="left">
--    Established 3 client relationships in my first two quarters of employment as a digital analyst
+⋅⋅*    Established 3 client relationships in my first two quarters of employment as a digital analyst
 <div align="left">
--    I am 6'3  
+⋅⋅*    I am 6'3  
   
 
 <br/>  
+
 
 
 ## Relevant Skills  
