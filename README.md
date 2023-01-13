@@ -31,6 +31,8 @@
 [NLP - Automatic Topic Modeling and Summarizer Tool](https://github.com/fredericktantowi/NLP-Topic-Modeling-and-Summarizer-Tool)
                  
 [Cluster Analysis of NYC Housing Projects vs Crime Rate](https://github.com/fredericktantowi/Housing-Projects-VS-Crime-Rate-in-NYC)
+                 
+[Presence of Heart Disease with Machine Learning - Regression, Decision Tree, Random Forests, K-Means Clustering](https://github.com/fredericktantowi/Prediction-of-Heart-Disease-with-Machine-Learning)
 <br/>
 
 ## Relevant Skills  
