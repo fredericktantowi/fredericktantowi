@@ -26,7 +26,7 @@
 <br/>  
 
 ## Relevant Projects
-[New York Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
+[New York Rent (Airbnb) Price Prediction with R](https://github.com/fredericktantowi/New-York-Rent-Price-Prediction-with-R)
                  
 [NLP - Automatic Topic Modeling and Summarizer Tool](https://github.com/fredericktantowi/NLP-Topic-Modeling-and-Summarizer-Tool)
                  
