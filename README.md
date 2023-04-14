@@ -33,6 +33,8 @@
 [Cluster Analysis of NYC Housing Projects vs Crime Rate](https://github.com/fredericktantowi/Housing-Projects-VS-Crime-Rate-in-NYC)
                  
 [Presence of Heart Disease with Machine Learning - Regression, Decision Tree, Random Forests, K-Means Clustering](https://github.com/fredericktantowi/Prediction-of-Heart-Disease-with-Machine-Learning)
+                 
+[Analysis of Esports Earnings](https://github.com/fredericktantowi/Esports-Analysis)
 <br/>
 
 ## Relevant Skills  
